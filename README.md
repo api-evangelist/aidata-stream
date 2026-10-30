@@ -64,5 +64,106 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aidata-stream is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aidata.stream/
+AI Data Stream provides an AI-powered platform that explains analytics, advertising, and SEO data in plain English. Users can connect their analytics sources, ask natural language questions, and receive detailed explanations of traffic changes, content gaps, and performance metrics. The service offers a free 30‑day trial, supports custom AI keys with zero markup, and includes features like AI chat, annotations, and multi‑language support, aiming to make data-driven decisions accessible to marketers and analysts alike.
+
+**Areas:** AI · Analytics · SEO · Marketing · Data
+
+## aidata-stream on APIs.io
+
+Everything profiled for aidata-stream is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aidata-stream/](https://apis.io/providers/aidata-stream/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [AI Data Stream API](https://apis.io/apis/aidata-stream/ai-data-stream-api/) — AI Data Stream provides a platform to interact via API for analytics data, AI chat and reports. Documentation is at https://aidata.stream/docs/.
+- [aidata-stream API](https://apis.io/apis/aidata-stream/aidata-stream-api/) — aidata-stream API as documented publicly: 6 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [aidata-stream API Rules](https://apis.io/rules/aidata-stream/aidata-stream-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aidata Stream Domain Security](https://apis.io/security/aidata-stream/aidata-stream-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Aidata Stream Plans Pricing](https://apis.io/plans/aidata-stream/aidata-stream-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aidata.stream/)
+- [Documentation](https://aidata.stream/docs/)
+- [Getting started](https://aidata.stream/docs/getting-started/)
+- [Pricing](https://aidata.stream/pricing/)
+- [Support](https://aidata.stream/contact/)
+- [Changelog](https://aidata.stream/changelog/)
+- [Blog](https://aidata.stream/blog/)
+- [Terms of service](https://aidata.stream/terms/)
+- [Privacy policy](https://aidata.stream/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 48.2** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 38.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 31.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aidata-stream/](https://apis.io/providers/aidata-stream/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for aidata-stream: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aidata-stream/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
